@@ -1,4 +1,4 @@
-# README.md
+# Senior Research
 ## A Comparative Study of Effectiveness Between Classical Classification Machine Learning Algorithms and Neural Networks
 Malware is becoming a significant issue in today's climate. 
 
